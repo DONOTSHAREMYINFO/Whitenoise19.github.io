@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Your Website Title</title>
+    <style>
+        /* Basic CSS styling. Customize as needed. */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+        nav {
+            background-color: #444;
+            padding: 10px;
+            text-align: center;
+        }
+        nav a {
+            color: white;
+            margin: 0 15px;
+            text-decoration: none;
+        }
+        nav a:hover {
+            text-decoration: underline;
+        }
+        main {
+            padding: 20px;
+            background-color: white;
+            max-width: 1200px;
+            margin: 20px auto;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Header Section -->
+    <header>
+        <h1>Welcome to My Website</h1>
+        <p>I FARTED.</p>
+    </header>
+
+    <!-- Navigation Menu -->
+    <nav>
+        <a href="#home">Home</a>
+        <a href="#bout">bout</a>
+        <a href="#services">Services</a>
+        <a href="#contact">Contact</a>
+    </nav>
+
+    <!-- Main Content -->
+    <main>
+        <section id="home">
+            <h2>Home</h2>
+            <p>HOWDY</p>
+        </section>
+
+        <section id="about">
+            <h2>About</h2>
+            <p>THIS IS MEH FISRT WEBSITE</p>
+        </section>
+
+        <section id="services">
+            <h2>Services</h2>
+            <p>In this section, list the services you offer, products, or key information about what you do.</p>
+        </section>
+
+        <section id="contact">
+            <h2>Contact</h2>
+            <p>Include contact details, a form, or any other ways visitors can get in touch with you.</p>
+        </section>
+    </main>
+
+    <!-- Footer Section -->
+    <footer>
+        <p>&copy; 2024  My First website | All Rights Taken </p>
+    </footer>
+
+    <!-- Optional JavaScript -->
+    <script>
+        // JavaScript code can go here.
+        // For example, adding interactive features like a form submission or scroll animation.
+        console.log("Welcome My First Website");
+    </script>
+
+</body>
+</html>
